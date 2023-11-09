@@ -18,8 +18,6 @@ To try this game, follow these steps:
 3. Run `python3 snake.py`
 4. Use arrow keys to change the direction of the snake's movement.
 
-## Requirements
 
-Make sure you have Python installed to run this game.
 
-Enjoy playing the Snake game!
+Enjoy playing the Snake game !!!
