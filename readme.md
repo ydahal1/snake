@@ -1,4 +1,4 @@
-![Snake Game Demo](https://gifyu.com/image/S81Rk)
+![Snake Game Demo](demo.gif)
 
 This is a simple snake game developed in Python using Pygame. It includes the following features:
 
